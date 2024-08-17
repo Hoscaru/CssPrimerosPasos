@@ -3,3 +3,23 @@ h1{
 color:blue
 
 }
+article h2{
+    color:red
+}
+/* p{
+    color: green;
+}
+
+} */
+/* Selector con clases */
+.texto{
+    color: green;
+}
+
+/* article p{
+    color: blueviolet;
+} */
+ 
+#parrafo1{
+    color: blueviolet;
+}
